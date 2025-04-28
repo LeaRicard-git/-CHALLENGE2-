@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Alumni
-=======
-Buongiorno Lea come stai? 
-namaste
->>>>>>> 6e466aeae79a990b16c7bc608ea9e8e4ab053def
+
 je suis Léa
+
